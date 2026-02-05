@@ -5,8 +5,6 @@
 
 Here are some ideas to get you started:
 
-
-
 # 👨‍💻 Douglas | Estudante de Informática & Tecnologia
 
 🚀 Transformando ideias em código e problemas em soluções  
