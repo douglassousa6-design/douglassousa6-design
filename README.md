@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 🧠 Sempre aprendendo, sempre evoluindo  
 ⚙️ Código limpo, performance e inovação  
 
----
+
 
 ## 🎓 Formação Acadêmica
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   📘 **Curso:** Informática Integrado ao Ensino Médio  
   📅 Em andamento
 
----
+
 
 ## 🔬 Experiência & Projetos
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 - Criação de conteúdos informativos e educativos
 - Apoio em eventos, projetos e divulgação científica
 
----
+
 
 ## 🏅 Conquistas Acadêmicas
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - Participação e destaque em olimpíadas do conhecimento
 - Reconhecimento pelo desempenho acadêmico e dedicação aos estudos
 
----
+
 
 ## 💻 Interesses e Habilidades
 
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 - Comunicação e trabalho em equipe
 - Aprendizado contínuo e inovação
 
----
+
 
 ## 🚀 Sobre mim
 
