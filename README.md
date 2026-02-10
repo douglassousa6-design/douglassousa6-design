@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 - Reconhecimento pelo desempenho acadêmico e dedicação aos estudos
 
 
-
 ## 💻 Interesses e Habilidades
 
 - Tecnologia e Programação
