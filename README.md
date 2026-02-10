@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**douglassousa6-design/douglassousa6-design** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 👨‍💻 Douglas | Estudante de Informática & Tecnologia
 
 🚀 Transformando ideias em código e problemas em soluções  
